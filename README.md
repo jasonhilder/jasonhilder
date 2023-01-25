@@ -6,6 +6,5 @@ I am a full time software developer as well as a self identifying Rustacean, obs
 - Rust.
 - General Web Stack HTML, CSS, SCSS and PHP.
 - The Cesspool that is Javascript/Typescript.
-- Neovim with Lua.
 - Occasional Golang.
 - Random Bash Scripts that should not see the light of day.
