@@ -4,7 +4,7 @@ I am a full time software developer as well as a self identifying Rustacean, obs
 
 #### Currently working with but not limited to:
 - Rust.
-- General Web Stack HTML, CSS, SCSS and PHP.
+- Golang.
+- General Web Stack HTML, CSS and PHP.
 - The Cesspool that is Javascript/Typescript.
-- Occasional Golang.
 - Random Bash Scripts that should not see the light of day.
