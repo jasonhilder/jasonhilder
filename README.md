@@ -6,5 +6,5 @@ I am a full time software developer as well as a self identifying Rustacean, obs
 - Rust.
 - Golang.
 - General Web Stack HTML, CSS and PHP.
-- The Cesspool that is Javascript/Typescript.
+- The blackhole that is Javascript/Typescript.
 - Random Bash Scripts that should not see the light of day.
