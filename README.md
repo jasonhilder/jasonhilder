@@ -1,4 +1,4 @@
-I am a full time software developer as well as a self identifying Rustacean, obsessed with text editors(I know... weird), mechanical keyboards, linux and  computers in general!
+I am a full time software developer as well as a self proclaimed minimalist, obsessed with text editors, mechanical keyboards, Linux and computers in general!
 
 #### Currently working with but not limited to:
 - Rust.
