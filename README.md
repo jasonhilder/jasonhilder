@@ -5,4 +5,4 @@ I am a full time software developer as well as a self proclaimed minimalist, obs
 - Golang.
 - General Web Stack HTML, CSS and PHP.
 - Javascript/Typescript.
-- Random Bash Scripts that should not see the light of day.
+- Bash Scripts that should not see the light of day.
